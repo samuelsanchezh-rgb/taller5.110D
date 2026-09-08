@@ -1,0 +1,12 @@
+datos {
+
+"nombre": "Samuel"
+"Apellido" : "Sanchez"
+"edad" : "15"
+"Estudiante" : True
+
+"nombre": "Angie"
+"Apellido" : "Granados"
+"edad" : "16"
+"Estudiante" : True
+}
